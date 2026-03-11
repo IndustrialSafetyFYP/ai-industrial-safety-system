@@ -1,0 +1,13 @@
+ECHO is on.
+backend/.env
+mosquitto_passwd
+ECHO is on.
+# OS / IDE artefacts
+.vscode/
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub/
+.DS_Store
