@@ -1,7 +1,6 @@
-ECHO is on.
+﻿# Secrets & local env files
 backend/.env
 mosquitto_passwd
-ECHO is on.
 # OS / IDE artefacts
 .vscode/
 .dart_tool/
